@@ -1,0 +1,9 @@
+.max {
+    max-width: 500px;
+    border: 2px solid black;
+}
+
+.min {
+    min-width: 400px;
+    border: 2px solid black;
+}

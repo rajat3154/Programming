@@ -1,0 +1,8 @@
+.max {
+    max-height: 100px;
+    border: 2px solid black;
+}
+ .min {
+     min-height: 50px;
+     border: 2px solid black;
+ }
