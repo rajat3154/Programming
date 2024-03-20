@@ -1,0 +1,5 @@
+.dotted {
+    outline: 2px dashed blue;
+    color: green;
+    text-align: center;
+}

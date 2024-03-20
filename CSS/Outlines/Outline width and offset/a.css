@@ -1,0 +1,7 @@
+ p {
+     border: solid green 3px;
+     outline-style: solid;
+     outline-width: 5px;
+     outline-offset: 3px;
+     text-align: center;
+ }
